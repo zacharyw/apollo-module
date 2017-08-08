@@ -1,5 +1,7 @@
 # Apollo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/apollo-module.svg)](https://greenkeeper.io/)
+
 > Nuxt.js module to use [vue-apollo](https://github.com/Akryum/vue-apollo) (integrates graphql-tag loader to parse `.gql` & `.graphql` files)
 
 ## Setup
